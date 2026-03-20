@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Food Delivery Time Prediction
 
 ## 📌 Problem Statement
@@ -125,3 +126,6 @@ This project demonstrates how machine learning can be used to solve real-world l
 
 * GitHub: https://github.com/shekhar-prajapat1
 * LinkedIn: https://www.linkedin.com/in/shekhar-prajapat-92576a210/
+=======
+# delivery-time-prediction
+>>>>>>> 8e606d2147e009cfb632f6661223b4baeda69888
